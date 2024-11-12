@@ -1,0 +1,1 @@
+#4. Write a Ruby program which accept the radius of a circle from the user and compute the parameter and area.
